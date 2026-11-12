@@ -42,4 +42,7 @@
 
 ## Study
 
-[트러블슈팅 스터디](https://github.com/woowacourse-study/2025-troubleshooting): 개발하면서 겪은 장애, 성능 개선, 새 기능 도입 시 시행착오를 발표하고 토론하는 스터디 (2025.07 ~, 발표 10회)
+| 스터디 | 소개 | 링크 |
+|-|-|-|
+| 컴구웅 | 혼자 공부하는 컴퓨터 구조 + 운영체제 책을 읽고 해당 내용에 대하여 정리 & 토론하는 스터디 | [Notion](https://app.notion.com/p/1d6cfbb673e4807ab0f4f6b45e4c96fd) |
+| 트러블슈팅 스터디 | 개발하면서 겪은 장애, 성능 개선, 새 기능 도입 시 시행착오를 발표하고 토론하는 스터디 (2025.07 ~, 발표 10회) | [GitHub](https://github.com/woowacourse-study/2025-troubleshooting) |
